@@ -75,7 +75,7 @@ Open Data API. Let's check out the documentation for their
 
 [after-school club data set]: https://dev.socrata.com/foundry/data.cityofnewyork.us/szgz-awuh
 
-#### Finding the API Endpoint
+#### Finding the API Endpointpythopython-p4-working-with-apis/n-p4-working-with-apis/
 
 Take a few minutes and familiarize yourself with resource linked to above.
 Learning how to read API documentation is an important skill. It's okay if you
